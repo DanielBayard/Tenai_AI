@@ -518,7 +518,7 @@ header {
    display: flex;   
    z-index: 1;
    padding-top: 360px;
-   padding-left: 14%;
+   padding-left: 12.5%;
    color: rgb(29, 42, 77);
    text-shadow: 1px 1px 3px  #ffffff;
    
@@ -1121,7 +1121,7 @@ position: absolute;
      .overlayText {
       
       padding-top: 260px;
-       padding-left: 8%;             
+       padding-left: 6%;             
      }
 
      .large_img, .small_img{
