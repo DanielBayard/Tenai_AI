@@ -282,7 +282,7 @@ header {
       display: flex;                   
       list-style-type: none;
       font-family: Rubik,Lato,lucida grande,lucida sans unicode,Tahoma,Sans-Serif;
-      padding: 7px 10px 7px 10px;
+      padding: 7px 10px 8px 10px;
       background-color: rgb(173,197,213);
       border-radius: 50px 50px 0px 0px;
       box-shadow: inset 1px 1px 5px 2px  grey;
